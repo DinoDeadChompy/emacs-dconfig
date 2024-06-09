@@ -1,0 +1,12 @@
+eq
+system-type
+eq system-type
+printf "hi"
+exit
+neofetch
+neofetch
+neofetch
+neofetch
+nmtui
+nmtui
+exit
