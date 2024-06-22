@@ -2,11 +2,47 @@ eq
 system-type
 eq system-type
 printf "hi"
+neofetch
+neofetch
+neofetch
+neofetch
+nmtui
+nmtui
+btop
+neofetch
+neofetch
+neofetch
+clr
+clear
+la
+ls -la
+eza
+btop
+neofetch
+pkill --
+pkill --help
+cat --help
+pkill steam
+ls- la
+ls -la
+eza
+eza --color --icons
+eeza --color --icons
+eza --color --icons
+exa
+ls -la
+test
++ 2 2
+* 2 2
+* 2 20
+mkdir src
+emacsclient --help 
+pkill sxhkd
+bspc wm --restart
+pkill sxhkd
+bspc wm --restart
+touch elpaca-setup.el
+touch buffer-move.el
 exit
-neofetch
-neofetch
-neofetch
-neofetch
-nmtui
-nmtui
+touch app-launcher.el
 exit

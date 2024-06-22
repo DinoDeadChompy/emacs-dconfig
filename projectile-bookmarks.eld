@@ -1,0 +1,1 @@
+("~/.config/emacs/" "~/.config/emacs/elpaca/repos/themes/")

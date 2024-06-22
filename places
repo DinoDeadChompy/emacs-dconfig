@@ -1,0 +1,47 @@
+;;; -*- coding: utf-8; mode: lisp-data -*-
+(("/home/jack/.config/emacs/config.org" . 2289)
+ ("/home/jack/.config/emacs/"
+  (dired-filename . "/home/jack/.config/emacs/.."))
+ ("/home/jack/Pictures/ArcoLinux_2023-02-09_16-45-44.png" . 3262145)
+ ("/home/jack/.config/"
+  (dired-filename . "/home/jack/.config/.."))
+ ("/home/jack/"
+  (dired-filename . "/home/jack/Pictures"))
+ ("/home/jack/Pictures/"
+  (dired-filename . "/home/jack/Pictures/AltStore_AppIcon-p-500.png"))
+ ("/home/jack/Pictures/AltStore_AppIcon-p-500.png" . 31993)
+ ("/home/jack/Pictures/ArcoLinux_2023-02-09_16-41-20.png" . 3233123)
+ ("/home/jack/Pictures/ArcoLinux_2023-02-09_16-41-03.png" . 2358055)
+ ("/home/jack/Pictures/ArcoLinux_2023-02-09_16-40-09.png" . 2393660)
+ ("/home/jack/Pictures/ArcoLinux_2023-02-09_16-43-17.png" . 3347764)
+ ("/home/jack/Pictures/ArcoLinux_2023-02-09_16-45-28.png" . 3145861)
+ ("/home/jack/Pictures/ArcoLinux_2023-02-09_16-45-38.png" . 3179095)
+ ("/usr/share/emacs/29.3/lisp/org/org-faces.el.gz" . 16746)
+ ("/home/jack/.config/bspwm/"
+  (dired-filename . "/home/jack/.config/bspwm/bspwmrc"))
+ ("/home/jack/.config/bspwm/bspwmrc" . 747)
+ ("/home/jack/.config/bspwm/sxhkdrc" . 734)
+ ("/home/jack/.config/emacs/games/tetris-scores" . 50)
+ ("/mnt/Games/SteamLibrary/"
+  (dired-filename . "/mnt/Games/SteamLibrary/steamapps"))
+ ("/mnt/Games/SteamLibrary/steamapps/"
+  (dired-filename . "/mnt/Games/SteamLibrary/steamapps/common"))
+ ("/mnt/Games/SteamLibrary/steamapps/common/"
+  (dired-filename . "/mnt/Games/SteamLibrary/steamapps/common/Sid Meier's Civilization VI"))
+ ("/mnt/Games/SteamLibrary/steamapps/common/Sid Meier's Civilization VI/Debug/"
+  (dired-filename . "/mnt/Games/SteamLibrary/steamapps/common/Sid Meier's Civilization VI/Debug/.."))
+ ("/mnt/Games/SteamLibrary/steamapps/common/Sid Meier's Civilization VI/steamassets/"
+  (dired-filename . "/mnt/Games/SteamLibrary/steamapps/common/Sid Meier's Civilization VI/steamassets/.."))
+ ("/mnt/Games/SteamLibrary/steamapps/common/Sid Meier's Civilization VI/2KLauncher/"
+  (dired-filename . "/mnt/Games/SteamLibrary/steamapps/common/Sid Meier's Civilization VI/2KLauncher/.."))
+ ("/mnt/Games/SteamLibrary/steamapps/common/Sid Meier's Civilization VI/"
+  (dired-filename . "/mnt/Games/SteamLibrary/steamapps/common/Sid Meier's Civilization VI/Base"))
+ ("/mnt/Games/SteamLibrary/steamapps/common/Sid Meier's Civilization VI/Base/Assets/"
+  (dired-filename . "/mnt/Games/SteamLibrary/steamapps/common/Sid Meier's Civilization VI/Base/Assets/.."))
+ ("/mnt/Games/SteamLibrary/steamapps/common/Sid Meier's Civilization VI/Base/"
+  (dired-filename . "/mnt/Games/SteamLibrary/steamapps/common/Sid Meier's Civilization VI/Base/Assets"))
+ ("/home/jack/.config/emacs/themes/"
+  (dired-filename . "/home/jack/.config/emacs/themes/dinomacs-theme.el"))
+ ("/home/jack/.config/emacs/themes/dinomacs-theme.el" . 1202)
+ ("/home/jack/Vault/"
+  (dired-filename . "/home/jack/Vault/..")))
